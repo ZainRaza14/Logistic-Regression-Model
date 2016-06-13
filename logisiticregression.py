@@ -1,5 +1,5 @@
 #---------------------------------------------#
-#-------| Written By: Sibt ul Hussain |-------#
+#-------| Written By: Syed Zain Raza |-------#
 #---------------------------------------------#
 
 # A Logistic Regression algorithm with regularized weights...
