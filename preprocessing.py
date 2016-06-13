@@ -1,5 +1,5 @@
 #---------------------------------------------#
-#-------| Written By: Sibt ul Hussain |-------#
+#-------| Written By: Syed Zain Raza |-------#
 #---------------------------------------------#
 
 # Main pre-processing class that apply necessary preprocessing
