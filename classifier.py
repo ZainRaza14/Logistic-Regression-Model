@@ -1,5 +1,5 @@
 #---------------------------------------------#
-#-------| Written By: Sibt ul Hussain |-------#
+#-------| Written By: Syed Zain Raza |-------#
 #---------------------------------------------#
 
 # A generice classifier class, this class implements
